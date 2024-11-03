@@ -335,7 +335,7 @@ public class mcMMO extends JavaPlugin {
         }
     }
 
-    @Override
+    /*@Override
     public void onLoad() {
         if (getServer().getPluginManager().getPlugin("WorldGuard") != null) {
             WorldGuardManager.getInstance().registerFlags();
@@ -343,7 +343,7 @@ public class mcMMO extends JavaPlugin {
 
         // ProtocolLib
         // protocolLibManager = new ProtocolLibManager(this);
-    }
+    }*/
 
     /**
      * Things to be run when the plugin is disabled.
