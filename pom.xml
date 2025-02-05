@@ -11,7 +11,6 @@
         <developerConnection>scm:git:git@github.com:mcMMO-Dev/mcMMO.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
-
     <properties>
 <!--        <spigot.version>1.19-R0.1-SNAPSHOT</spigot.version>-->
         <spigot.version>1.21.4-R0.1-SNAPSHOT</spigot.version>
